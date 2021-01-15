@@ -17,5 +17,6 @@ class GithubPlentyTestRouteServiceProvider extends RouteServiceProvider
     public function map(Router $router)
     {
         $router->get('hello-world','GithubPlentyTest\Controllers\GithubPlentyTestController@getHelloWorldPage');
+        $router->get('/','GithubPlentyTest\Controllers\GithubPlentyTestController@getSlash');
     }
 }

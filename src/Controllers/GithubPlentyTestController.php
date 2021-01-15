@@ -15,4 +15,13 @@ class GithubPlentyTestController extends Controller
     {
         return $twig->render('GithubPlentyTest::Index');
     }
+
+    /**
+     * @param Twig $twig
+     * @return string
+     */
+    public function getSlash(Twig $twig):string
+    {
+        return $twig->render('GithubPlentyTest::Index');
+    }
 }
