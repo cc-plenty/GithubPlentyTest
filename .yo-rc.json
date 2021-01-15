@@ -1,0 +1,17 @@
+{
+  "@plentymarkets/generator-plugin": {
+    "promptValues": {
+      "type": "theme"
+    },
+    "answers": {
+      "name": "GithubPlentyTest",
+      "author": "",
+      "license": "MIT",
+      "shortDescription": "",
+      "price": 0,
+      "version": "0.0.1",
+      "categories": [],
+      "type": "theme"
+    }
+  }
+}

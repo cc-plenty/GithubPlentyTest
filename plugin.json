@@ -1,0 +1,12 @@
+{
+    "version"           :   "0.0.1",
+    "license"           :   "MIT",
+    "name"              :   "GithubPlentyTest",
+    "shortDescription"  :   { "de": "", "en": "TODO add manually" },
+    "namespace"         :   "GithubPlentyTest",
+    "author"            :   "",
+    "price"             :   0,
+    "categories"        :   [],
+    "type"              :   "theme",
+    "serviceProvider"   :   "GithubPlentyTest\\Providers\\GithubPlentyTestServiceProvider"
+}
